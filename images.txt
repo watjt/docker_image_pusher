@@ -1,3 +1,2 @@
-mediamtx
 bluenviron/mediamtx:1.8.2
 --platform=linux/arm64 bluenviron/mediamtx:1.8.2
