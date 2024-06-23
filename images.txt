@@ -1,6 +1,3 @@
 mediamtx
-#支持私库
-docker.io/bluenviron/mediamtx:1.8.2
-mediamtx:1.8.2
-#支持指定架构
---platform=linux/arm64 mediamtx:1.8.2
+bluenviron/mediamtx:1.8.2
+--platform=linux/arm64 bluenviron/mediamtx:1.8.2
